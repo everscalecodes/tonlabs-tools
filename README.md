@@ -4,6 +4,13 @@
 * [TON-Solidity-Compiler](https://github.com/tonlabs/TON-Solidity-Compiler)
 
 ## Installation
+Rust
+```sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source $HOME/.cargo/env
+```
+
+Tools
 ```sh
 chmod u+x install.sh
 ./install.sh
