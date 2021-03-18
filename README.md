@@ -3,22 +3,19 @@
 * [TVM-linker](https://github.com/tonlabs/TVM-linker)
 * [TON-Solidity-Compiler](https://github.com/tonlabs/TON-Solidity-Compiler)
 
-## Installation
-[Rust](https://www.rust-lang.org/tools/install)
+## [Rust](https://www.rust-lang.org/tools/install)
 ```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
 
-Tools
+## Install
 ```sh
-chmod u+x install.sh
-./install.sh
+wget -qO - https://raw.githubusercontent.com/kokkekpek/tonlabs-tools-setup/master/install.sh | bash -
 source ~/.bashrc
 ```
 
 ## Update and build
 ```sh
-chmod u+x update.sh
-./update.sh
+wget -qO - https://raw.githubusercontent.com/kokkekpek/tonlabs-tools-setup/master/update.sh | bash -
 ```
