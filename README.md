@@ -3,6 +3,11 @@
 * [TVM-linker](https://github.com/tonlabs/TVM-linker)
 * [TON-Solidity-Compiler](https://github.com/tonlabs/TON-Solidity-Compiler)
 
+Installation directory:
+```
+~/Projects/tonlabs
+```
+
 ## [Rust](https://www.rust-lang.org/tools/install)
 ```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
