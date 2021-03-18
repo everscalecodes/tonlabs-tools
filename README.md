@@ -1,4 +1,4 @@
-# Setup TON Labs tools
+# Setup TON Labs tools on Ubuntu 20.04 LST
 * [tonos-cli](https://github.com/tonlabs/tonos-cli)
 * [TVM-linker](https://github.com/tonlabs/TVM-linker)
 * [TON-Solidity-Compiler](https://github.com/tonlabs/TON-Solidity-Compiler)
